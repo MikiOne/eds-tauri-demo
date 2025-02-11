@@ -1,0 +1,22 @@
+{
+    "fileMenu": "Tiedosto",
+    "aboutMenu": "Tietoja",
+    "exitMenu": "Lopeta",
+    "helpMenu": "Apu",
+    "enterNameHolder": "Anna nimi...",
+    "about": "Tietoja",
+    "copyright": "Tekijänoikeus",
+    "license": "Lisenssi",
+    "versionUpToDate": "Versio on ajantasalla",
+    "newVersionAvailable": "Uusi sovellusversio on saatavilla",
+    "updateButton": "Päivitä",
+    "manualDownload": "Manuaalinen lataus",
+    "buttonRefresh": "Virkistä",
+    "ok": "Ok",
+    "maximize": "Maksimoi",
+    "minimize": "Minimoi",
+    "close": "Sulje",
+    "language": "Kieli",
+    "cancel": "Peruuta",
+    "darkMode": "Tumma tila"
+}

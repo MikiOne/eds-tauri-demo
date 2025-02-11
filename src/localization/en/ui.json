@@ -1,0 +1,22 @@
+{
+    "fileMenu": "File",
+    "aboutMenu": "About",
+    "exitMenu": "Exit",
+    "helpMenu": "Help",
+    "enterNameHolder": "Enter a name...",
+    "about": "About",
+    "copyright": "Copyright",
+    "license": "License",
+    "versionUpToDate": "The version is up to date",
+    "newVersionAvailable": "A new version of the software is available",
+    "updateButton": "Update",
+    "manualDownload": "Manual download",
+    "buttonRefresh": "Refresh",
+    "ok": "Ok",
+    "maximize": "Maximize",
+    "minimize": "Minimize",
+    "close": "Close",
+    "language": "Language",
+    "cancel": "Cancel",
+    "darkMode": "Dark mode"
+}
